@@ -9,6 +9,7 @@ A simple benchmarking tool for testing local LLM performance.
 - **Inter-token Latency (ITL)**: the average time between consecutive tokens
 
 The goal is to compare how different local LLMs perform on a set of prompts.
+Note: Performance outcome varies depending on the hardware you are running it on, including CPU, RAM, system load.
 
 ## Ollama's API Usage
 - `prompt_eval_count`: how many input tokens were processed
