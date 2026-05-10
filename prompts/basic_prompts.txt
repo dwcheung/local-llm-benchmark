@@ -1,0 +1,4 @@
+What is AI?
+Does AI have consciousness and emotions?
+Write a short Python function. Given an integer x, return true if x is a palindrome, and false otherwise.
+
